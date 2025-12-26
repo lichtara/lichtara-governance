@@ -8,7 +8,7 @@
 
 O presente documento constitui o **Registro Geral dos Instrumentos Declaratórios, Hermenêuticos e Institucionais** reconhecidos no âmbito do **Sistema Lichtara**, com a finalidade exclusiva de **registrar, de forma organizada, verificável e documentalmente comprovável**, a existência, identificação, datação, classificação e estado dos referidos instrumentos.
 
-Este Registro possui natureza **estritamente declaratória, organizacional e probatória**, não se caracterizando como contrato, licença, estatuto, regulamento, política vinculante, termo de adesão ou qualquer outro instrumento de natureza normativa ou obrigacional.
+Este Registro possui natureza **estritamente declaratória, organizacional e probatória**, para fins de registro, publicidade e conservação documental, não se caracterizando como contrato, licença, estatuto, regulamento, política vinculante, termo de adesão ou qualquer outro instrumento de natureza normativa ou obrigacional.
 
 ---
 
@@ -67,7 +67,7 @@ Todas as versões deste Registro são preservadas por meio do **histórico públ
 
 ## 7. Cláusula de Encerramento
 
-O presente Registro limita-se a **declarar a existência, identificação e estado** dos instrumentos aqui listados, **não interpretando, comentando, validando ou modificando** o conteúdo individual de cada instrumento declarado.
+O presente Registro limita-se a **declarar a existência, identificação e estado** dos instrumentos aqui listados, **não interpretando, comentando, validando ou modificando** o conteúdo individual de cada instrumento declarado, para todos os fins de direito que admitam prova documental de natureza declaratória.
 
 ---
 
