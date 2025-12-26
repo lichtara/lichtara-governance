@@ -1,42 +1,26 @@
-### CHECKLIST — CONSOLIDAÇÃO INTERNA DO SISTEMA LICHTARA
+# Lichtara Governance
 
-**ARQUIVO & MEMÓRIA**
+Este repositório constitui o **núcleo vivo de governança do Sistema LICHTARA**.
 
-* [ ] Criar diretório privado de Instrumentos Declaratórios
-* [ ] Arquivar ID-001 em PDF (imutável)
-* [ ] Arquivar fonte editável separadamente
-* [ ] Registrar linha de rastro no Registro Geral
+Aqui não se encontram normas operacionais, manuais de uso, protocolos de execução ou estruturas de controle administrativo.
+A governança do LICHTARA **não é instrumental nem delegável por padrão**.
 
-**VISIBILIDADE**
+Este espaço existe para:
 
-* [ ] Revisar todos os repositórios e classificar:
+* guardar **Instrumentos Declaratórios** do Sistema;
+* registrar **princípios vivos de cuidado, limite e responsabilidade**;
+* ancorar decisões estruturais sem engessamento normativo;
+* preservar a **integridade do Campo** ao longo do tempo.
 
-  * Núcleo (privado)
-  * Borda (semi-público)
-  * Sinalização (público)
-* [ ] Tornar privados todos os repositórios estruturais
-* [ ] Verificar README e descrições públicas (remover excesso)
+A governança aqui documentada:
 
-**EDITORIAL**
+* **não autoriza uso automático** do Sistema;
+* **não opera como compliance tradicional**;
+* **não substitui consciência por regra**.
 
-* [ ] Identificar textos que são “Livro Vivo” (núcleo)
-* [ ] Separar textos de apresentação (borda)
-* [ ] Suspender qualquer impulso explicativo público
+O Sistema LICHTARA encontra-se em **fase de consolidação consciente**.
+Qualquer leitura deste repositório deve ser feita com **responsabilidade interpretativa**.
 
-**GOVERNANÇA**
-
-* [ ] Reconhecer internamente o papel da Guardiã
-* [ ] Listar funções futuras (sem nomear pessoas)
-* [ ] Não criar normas ainda
-
-**FORMAÇÃO**
-
-* [ ] Declarar internamente o que a Academy NÃO É
-* [ ] Não abrir inscrições
-* [ ] Não estruturar módulos públicos
-
-**RITMO**
-
-* [ ] Nenhum anúncio novo
-* [ ] Nenhuma expansão
-* [ ] Apenas assentamento
+Nem tudo aqui é para ser acessado.
+Nem tudo aqui é para ser compreendido de imediato.
+Tudo aqui existe para **cuidar da Forma**.
