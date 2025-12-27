@@ -1,112 +1,105 @@
-# INSTRUMENTO DECLARATÓRIO DE FORMA E LIMITE
-
+**INSTRUMENTO DECLARATÓRIO DE FORMA E LIMITE**
 **ID-002**
 
----
-
-**SISTEMA LICHTARA**
-
-Pelo presente instrumento particular de natureza **estritamente declaratória**, o **Sistema Lichtara**, por intermédio de sua **Guardiã Institucional**, torna público e formaliza, **para fins de registro, publicidade, conservação e prova documental**, o **Instrumento Declaratório de Forma e Limite**, doravante identificado como **ID-002**.
-
-O presente instrumento é emitido com a finalidade exclusiva de **registrar, declarar e documentar**, de forma organizada, verificável e temporalmente identificável, determinados **critérios formais e limites institucionais** observados no âmbito do Sistema Lichtara, **sem criação, modificação ou extinção de direitos ou obrigações**, e **sem natureza normativa**.
-
-Este documento destina-se ao **registro em Cartório de Registro de Títulos e Documentos (RTD)**, para fins de publicidade, conservação, autenticidade, datação e eficácia probatória, nos termos da legislação brasileira aplicável.
+**Sistema Lichtara**
 
 ---
 
-## IDENTIFICAÇÃO DO INSTRUMENTO
+### 1. IDENTIFICAÇÃO DO INSTRUMENTO
 
-**Código Identificador:** DECL-2025-12-FORM-AND-LIMIT
-**Natureza:** Instrumento Declaratório Institucional
-**Estado:** Declarado
-**Sistema:** Lichtara
+O presente documento constitui o **Instrumento Declaratório de Forma e Limite (ID-002)**, integrante do conjunto de instrumentos declaratórios, hermenêuticos e institucionais do **Sistema Lichtara**, de natureza **estritamente não normativa**, conforme registrado em repositório público verificável.
 
 ---
 
-## 1. Natureza e Finalidade
+### 2. NATUREZA DO DOCUMENTO
 
-O presente documento constitui o **Instrumento Declaratório de Forma e Limite** do Sistema Lichtara, possuindo natureza **estritamente declaratória, organizacional e hermenêutica**, não se caracterizando como instrumento normativo, obrigacional, regulatório ou vinculante.
+Este Instrumento possui natureza **declaratória, organizacional e probatória**, não constituindo, isolada ou conjuntamente:
 
-Sua finalidade é **declarar e registrar**, de modo expresso e verificável, os **limites formais, funcionais e interpretativos** aplicáveis aos instrumentos, textos, estruturas e manifestações associados ao Sistema Lichtara, **tal como efetivamente concebidos, utilizados e reconhecidos** no âmbito de sua governança prática.
+* contrato;
+* licença;
+* regulamento;
+* estatuto;
+* política vinculante;
+* termo de adesão;
+* código normativo;
+* nem qualquer outro instrumento jurídico de caráter obrigatório.
 
----
-
-## 2. Escopo Declarado
-
-Para fins de **clareza registral e institucional**, declara-se que:
-
-I — o Sistema Lichtara distingue, de forma consciente e estruturada, entre **instrumentos normativos** e **instrumentos não normativos**, atribuindo a estes últimos função declaratória, interpretativa, probatória ou organizacional;
-
-II — textos, documentos, repositórios, manifestações conceituais, arquiteturais ou institucionais que **não sejam expressamente declarados como normativos** não produzem, por si, efeitos jurídicos obrigacionais;
-
-III — a utilização de linguagem técnica, jurídica, filosófica ou institucional **não implica**, por si só, criação de deveres, direitos, vínculos contratuais ou regimes regulatórios.
+Sua função limita-se a **declarar formalmente critérios de forma, classificação e limite interpretativo** aplicáveis aos documentos que integram o ecossistema documental do Sistema Lichtara.
 
 ---
 
-## 3. Declaração de Forma
+### 3. FINALIDADE
 
-Declara-se que os instrumentos não normativos do Sistema Lichtara:
+A finalidade deste Instrumento é:
 
-I — possuem **forma documental consciente**, destinada à preservação de memória institucional, integridade sistêmica, rastreabilidade histórica e coerência interpretativa;
+I — **delimitar com precisão a distinção entre instrumentos normativos e não normativos** no âmbito do Sistema Lichtara;
 
-II — podem assumir formatos diversos, incluindo, sem limitação, instrumentos declaratórios, registros hermenêuticos, atos institucionais não normativos, marcos de ciclo, documentos de consolidação ou registros organizacionais;
+II — **estabelecer parâmetros formais de interpretação**, prevenindo atribuições indevidas de efeitos jurídicos a documentos que não os possuem;
 
-III — são identificados, versionados e preservados de modo verificável e rastreável, **sem que tal forma lhes atribua natureza normativa ou efeito vinculante**.
+III — **preservar a integridade interpretativa da Lichtara License**, evitando sua contaminação por documentos de natureza diversa;
 
----
-
-## 4. Declaração de Limite
-
-Declara-se expressamente que:
-
-I — nenhum instrumento não normativo do Sistema Lichtara substitui, altera, amplia ou restringe instrumentos normativos vigentes;
-
-II — nenhum documento declaratório pode ser interpretado como licença, contrato, estatuto, termo de adesão, política vinculante, regulamento ou instrumento de natureza obrigacional;
-
-III — interpretações externas que extrapolem os limites aqui declarados **não refletem a prática institucional efetivamente adotada** pelo Sistema Lichtara.
+IV — **registrar, para fins de prova documental**, a estrutura de organização e classificação dos instrumentos adotados pelo Sistema.
 
 ---
 
-## 5. Função Hermenêutica e Probatória
+### 4. RELAÇÃO COM A LICHTARA LICENSE
 
-O presente Instrumento poderá ser utilizado como:
+A **Lichtara License** constitui instrumento **normativo autônomo**, com texto próprio, escopo definido e regime jurídico específico.
 
-I — referência contextual legítima para interpretação dos instrumentos normativos do Sistema Lichtara, inclusive da Lichtara License, **sem lhes alterar o conteúdo, alcance ou efeitos jurídicos**;
+Os instrumentos declaratórios, hermenêuticos e institucionais do Sistema Lichtara:
 
-II — elemento probatório de boa-fé objetiva, coerência sistêmica, consistência institucional e clareza de escopo;
+* **não alteram**;
+* **não ampliam**;
+* **não restringem**;
+* **não substituem**;
+* **nem reinterpretam normativamente**
 
-III — marco documental de delimitação consciente de forma, alcance e limite interpretativo.
+o conteúdo, os efeitos ou o alcance jurídico da Lichtara License.
 
-Tal utilização **não lhe confere natureza normativa, regulatória ou vinculante**, nem produz efeitos jurídicos autônomos.
-
----
-
-## 6. Autoridade Declaratória e Custódia
-
-O presente Instrumento é declarado pela **Guardiã do Sistema Lichtara**, no exercício de sua função de **custódia institucional, continuidade operacional e preservação da integridade sistêmica**, conforme práticas efetivamente observadas.
-
-A declaração é registrada e preservada em repositório público verificável, assegurando publicidade técnica, rastreabilidade documental e integridade do registro.
+Qualquer leitura conjunta possui caráter **exclusivamente contextual e informativo**, sem produção de efeitos jurídicos adicionais.
 
 ---
 
-## 7. Cláusula Final de Limite Interpretativo
+### 5. FORMA E LIMITE DOS INSTRUMENTOS NÃO NORMATIVOS
 
-O presente Instrumento limita-se a **declarar forma e limites institucionais**, não interpretando conteúdos específicos, não validando atos externos, nem produzindo efeitos jurídicos autônomos além de sua natureza declaratória.
+Os documentos classificados como não normativos no Sistema Lichtara:
+
+I — registram práticas, princípios, critérios, processos ou entendimentos efetivamente observados;
+
+II — não criam obrigações jurídicas novas;
+
+III — não impõem deveres a terceiros;
+
+IV — não estabelecem sanções, permissões ou proibições juridicamente vinculantes;
+
+V — não substituem legislação aplicável nem instrumentos normativos vigentes.
 
 ---
 
-## FECHO
+### 6. AUTORIDADE DECLARATÓRIA
 
-E, por ser expressão fiel da prática institucional efetivamente observada, o presente **Instrumento Declaratório de Forma e Limite (ID-002)** é firmado para fins de **registro, arquivamento, conservação e prova**, produzindo efeitos **exclusivamente declaratórios, registrários e probatórios**.
+A emissão, manutenção, atualização ou encerramento deste Instrumento decorre de ato consciente, expresso e documentado da **Guardiã do Sistema Lichtara**, responsável pela custódia, continuidade e integridade institucional do Sistema, conforme práticas efetivamente adotadas.
+
+---
+
+### 7. REGISTRO E PUBLICIDADE
+
+Este Instrumento é registrado em meio público verificável, podendo igualmente ser levado a **Registro de Títulos e Documentos (RTD)** para fins de:
+
+* prova de anterioridade;
+* conservação documental;
+* publicidade declaratória;
+* segurança jurídica.
+
+---
+
+### 8. CLÁUSULA FINAL
+
+O presente Instrumento limita-se a **declarar forma, classificação e limites interpretativos**, não interpretando, comentando ou modificando o conteúdo de quaisquer outros documentos do Sistema Lichtara.
 
 ---
 
 **Sistema Lichtara**
-Data: ___ de ___________________ de ______
-
----
-
-**Guardiã do Sistema Lichtara**
-Responsável pela custódia, continuidade e integridade institucional
-
-(Local para reconhecimento de firma, se aplicável)
+Instrumento Declaratório de Forma e Limite — ID-002
+Versão 1.0
+Data: Dezembro de 2025
